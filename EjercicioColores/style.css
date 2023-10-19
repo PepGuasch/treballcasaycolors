@@ -1,0 +1,61 @@
+*{
+    max-width: 1000px;
+    max-height: 800px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0 auto;
+}
+.rectanguloazulclaro{
+    background-color: #26bce5;
+    position: relative;
+    width: 1500px;
+    height: 200px;
+    margin: auto;
+}
+.rectangulorosa{
+    background-color: #ea21bb;
+    position: relative;
+    width: 1500px;
+    height: 50px;
+    margin-top: 10px;
+    left: 0px;
+}
+.rectanguloamarillo{
+    background-color: #e0f12b;
+    position: relative;
+    width: 300px;
+    height: 150px;
+    left: 0px;
+    margin-top: 10px;
+    align-items: center;
+}
+.Logintext{
+    padding: 40px;
+    text-align: center;
+}
+.rectanguloazul{
+    background-color: #1b1bc8;
+    position: relative;
+    width: 690px;
+    height: 500px;
+    left: 310px;
+    bottom: 150px;
+}
+.rectangulorojo{
+    background-color: red;
+    position: relative;
+    width: 300px;
+    height: 340px;
+    bottom: 490px;
+}
+.rectangulonegro{
+    background-color: black;
+    position: relative;
+    width: 1500px;
+    height: 50px;
+    bottom: 480px;
+}
